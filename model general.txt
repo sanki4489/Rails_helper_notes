@@ -1,0 +1,8 @@
+
+#app/models/model_name.rb
+what goes in model file?
+1.query methods / scopes
+2.verifications / validations
+3.Helper methods
+4. domain logic
+5.Associations
