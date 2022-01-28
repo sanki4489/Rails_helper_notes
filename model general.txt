@@ -8,11 +8,11 @@ what goes in model file?
 5.Associations
 
 How can i create a model instances?
-1.seeds.rb
+1.seeds.rb- after dumping the data, comment the code.
 2.manually create with forms or console
 3.faker gem
 
 Steps to use faker gem?
-10.do 
+10.times do 
 User.create(name: Faker::Name)
 end
