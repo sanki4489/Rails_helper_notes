@@ -11,3 +11,8 @@ How can i create a model instances?
 1.seeds.rb
 2.manually create with forms or console
 3.faker gem
+
+Steps to use faker gem?
+10.do 
+User.create(name: Faker::Name)
+end
